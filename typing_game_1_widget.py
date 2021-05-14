@@ -1,6 +1,7 @@
 from PyQt5 import QtWidgets, QtCore
 from PyQt5.QtWidgets import QApplication, QMainWindow, QLineEdit, QLabel
 from PyQt5.QtGui import *
+from input_box import Inputbox
 import sys
 
 
@@ -11,7 +12,7 @@ class HowTo(QMainWindow):
 
     def initUI(self):
         self.setGeometry(300, 300, 400, 300)
-        self.setWindowTitle('Typing Game!')
+        self.setWindowTitle('Typing Game')
 
         self.title = QtWidgets.QLabel(self)
         self.title.move(120, 50)
@@ -30,8 +31,7 @@ class HowTo(QMainWindow):
                           '\npossible and try to get the most amount of points possible')
         self.text.adjustSize()
 
-
-class Game(QMainWindow):
+class Game(QtWidgets.QWidget):
     def __init__(self):
         super(Game, self).__init__()
         self.initUI()
@@ -40,18 +40,13 @@ class Game(QMainWindow):
         self.setGeometry(600, 200, 500, 300)
         self.setWindowTitle('Typing game')
 
-        self.input = QtWidgets.QLineEdit(self)
-        self.input.resize(200, 50)
-        self.input.move(155, 200)
+        self.input_box = Inputbox()
+        self.input_box.move(30,30)
 
-        self.word = QtWidgets.QLineEdit(self)
-        self.word.resize(300, 150)
-        self.word.move(105, 30)
-        self.word.setDisabled(True)
-        self.word.setFont(QFont('Times', 40))
-        self.word.setText('Bread')
 
-    # def check_
+
+
+
 
 
 class MainWindow(QMainWindow):
@@ -95,9 +90,7 @@ class MainWindow(QMainWindow):
 
 def main():
     app = QApplication(sys.argv)
-    win = Game()
+    win = MainWindow()
     win.show()
     app.exec_()
 
-
-main()
