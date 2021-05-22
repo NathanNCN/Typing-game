@@ -32,18 +32,19 @@ class Game(QMainWindow):
         self.text_box.move(20,30)
 
     def test(self):
-        if self.i==len(self.text):
-            self.hide()
-            end=time()
-            self._WPM_info._WPM = self.i()/int(self.time())
+        if self.typed_words == len(self.text):
+            self.find_WPM(time())
             self._WPM_info.show()
         elif self.input_box.text()==self.text_box.text():
-            self.input_box.setText('')
-            self.text_box.setText(self.text[self.i])
-            self.i+=1
-            if self.i==1:
+            self.text_box.setText(self.text[self.typed_words])
+            self.typed_words+=1
+            if self.typed_words==1:
                 self.time=time()
         else:
             self.error+=1
+
+    def find_WPM(self,end_time):
+        self.time=end_time-self.time
+        self._WPM_info.WPM = 10
 
 
