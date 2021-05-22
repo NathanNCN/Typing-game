@@ -13,6 +13,11 @@ class Inputbox(QtWidgets.QLineEdit):
     def initUI(self):
         self.resize(200, 50)
         self.move(155, 200)
+        self.returnPressed.connect(self.rest_input)
+
+    def rest_input(self):
+        self.parent.test()
+        self.setText('')
 
 
 
