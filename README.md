@@ -19,5 +19,8 @@ git clone https://github.com/Treenutgod/Typing-game.git
 After cloning all you need to do is run the program inside of the IDE
 
 ## How to use
+When you first open the program you will be welcomed with a straight forward main menu screen. Here you can learn the instructions or play the game.
 ![alttext](https://user-images.githubusercontent.com/78819516/119418898-0c8ccd00-bcc7-11eb-99da-50ea3ad47530.JPG)
 
+
+If you decide to learn the instructions you need to click one the
