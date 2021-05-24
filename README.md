@@ -19,3 +19,5 @@ git clone https://github.com/Treenutgod/Typing-game.git
 After cloning all you need to do is run the program inside of the IDE
 
 ## How to use
+![alttext](https://user-images.githubusercontent.com/78819516/119418898-0c8ccd00-bcc7-11eb-99da-50ea3ad47530.JPG)
+
