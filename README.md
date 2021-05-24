@@ -6,3 +6,13 @@ To run the program you will need to have PQTY5
 
 For how to install click [here](https://pypi.org/project/PyQt5/)
 
+## How to install and run
+Once you have PQTY5 installed follow these steps
+
+
+Clone this repository locally :
+```
+git clone https://github.com/Treenutgod/Typing-game.git
+```
+
+After cloning all you need to do is run the program inside of the IDE
