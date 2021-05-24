@@ -17,3 +17,5 @@ git clone https://github.com/Treenutgod/Typing-game.git
 ```
 
 After cloning all you need to do is run the program inside of the IDE
+
+## How to use
