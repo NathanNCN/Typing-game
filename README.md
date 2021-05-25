@@ -26,3 +26,6 @@ When you first open the program you will be welcomed with a straight forward mai
 
 
 If you decide to learn the instructions you need to click one the **How to play**. A window will open and here you are able learn the instruction. If you want to close the window you can either click on the same button to open the window or click on the **X**
+
+![code](https://user-images.githubusercontent.com/78819516/119420887-62fc0a80-bccb-11eb-8c17-a4a646e16624.JPG)
+
