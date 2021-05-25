@@ -35,4 +35,5 @@ Moving on, if you want to access the typing game. You need to click on the **Pla
 
 After finishing the sentences a window  will pop up and will show your accuracy and words per minute.
 
+![code](https://user-images.githubusercontent.com/78819516/119423241-d94f3b80-bcd0-11eb-9a91-4a33150a5270.JPG)
 
