@@ -31,3 +31,8 @@ If you decide to learn the instructions you need to click one the **How to play*
 
 Moving on, if you want to access the typing game. You need to click on the **Play** button. This will create a new window where you are able to play the game. If you want to play again click on the same button as before.
 
+![code](https://user-images.githubusercontent.com/78819516/119422547-58437480-bccf-11eb-8ab0-c2b8bc35cde6.JPG)
+
+After finishing the sentences a window  will pop up and will show your accuracy and words per minute.
+
+
