@@ -25,4 +25,4 @@ When you first open the program you will be welcomed with a straight forward mai
 ![alttext](https://user-images.githubusercontent.com/78819516/119418898-0c8ccd00-bcc7-11eb-99da-50ea3ad47530.JPG)
 
 
-If you decide to learn the instructions you need to click one the *How to play*
+If you decide to learn the instructions you need to click one the **How to play**. A window will open and here you are able learn the instruction. If you want to close the window you can either click on the same button to open the window or click on the **X**
