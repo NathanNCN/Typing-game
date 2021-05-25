@@ -25,4 +25,4 @@ When you first open the program you will be welcomed with a straight forward mai
 ![alttext](https://user-images.githubusercontent.com/78819516/119418898-0c8ccd00-bcc7-11eb-99da-50ea3ad47530.JPG)
 
 
-If you decide to learn the instructions you need to click one the
+If you decide to learn the instructions you need to click one the *How to play*
