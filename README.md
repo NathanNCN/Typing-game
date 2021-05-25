@@ -29,3 +29,5 @@ If you decide to learn the instructions you need to click one the **How to play*
 
 ![code](https://user-images.githubusercontent.com/78819516/119420887-62fc0a80-bccb-11eb-8c17-a4a646e16624.JPG)
 
+Moving on, if you want to access the typing game. You need to click on the **Play** button. This will create a new window where you are able to play the game. If you want to play again click on the same button as before.
+
